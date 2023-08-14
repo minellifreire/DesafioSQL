@@ -1,0 +1,19 @@
+Regra de Negocio enviada por Emerson
+
+Apresentamos nosso mais recente cliente, que busca um serviço especializado em registrar celulares disponíveis para venda. O objetivo é criar um sistema de gerenciamento eficiente e confiável, onde vendedores e lojistas possam registrar seus dispositivos e promover negócios com segurança.
+Regras de Funcionamento:
+Comissão para Funcionários: Os colaboradores envolvidos na venda de celulares serão remunerados com uma comissão por cada dispositivo registrado e vendido. Essa comissão visa incentivar e reconhecer o esforço da equipe em promover a plataforma e atrair novos clientes.
+Pagamento em até 10x sem juros: Visando oferecer opções acessíveis aos compradores, possibilitaremos o pagamento em até 10 vezes sem juros para compras de celulares registrados na plataforma. Essa facilidade permitirá uma maior flexibilidade financeira aos consumidores e contribuirá para o aumento das vendas.
+Cobrança de juros após o prazo: Após o período de 10x sem juros, serão aplicados juros proporcionais ao número de parcelas restantes no pagamento. Essa medida visa garantir a sustentabilidade do negócio e a continuidade dos serviços prestados aos clientes.
+Através dessas regras, buscamos oferecer uma experiência agradável tanto para os vendedores quanto para os compradores. Além disso, pretendemos estabelecer um ambiente seguro e confiável para transações de compra e venda de celulares, fortalecendo a relação de confiança entre nossa plataforma e os usuários. Estamos entusiasmados em trabalhar com esse cliente e em contribuir para o sucesso de seu empreendimento no mercado de celulares.
+Fazer create, select e insert
+Dessa regra acima
+Prazo: Sexta
+
+-- Isso foi oq eu entendi:
+
+Serviço Especializado em Registrar Celulares disponíveis para venda. 
+Objetivo:  Criar um sistema de gerenciamento eficiente e confiável, onde vendedores e lojistas possam cadastrar a venda de dispositivos e promover negócios com segurança. 
+Com opção de pagamento em até 10x sem juros em celulares registrados na plataforma. 
+Cobrança de Juros caso o cliente queira dividir em mais vezes.
+
